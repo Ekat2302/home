@@ -125,6 +125,7 @@ html {
   background-size: cover;
 }
 .bg {
+  display: flex;
   padding: 4rem 0 4.7rem;
   position: relative;
   background: url(images/livello_1.png) no-repeat center center;
@@ -366,7 +367,7 @@ html {
   vertical-align: top;
 }
 .right-2 {
-  display: table;
+  display: flex;
   margin: 30px auto 0;
   max-width: 204px;
   min-height: 52px;
